@@ -1,6 +1,6 @@
 "use strict";
 
-let fullname = "Allan Smith Jones";
+let fullname = "Michael Jo Bjkwnjwnvkn";
 
 getNameParts(fullname);
 
